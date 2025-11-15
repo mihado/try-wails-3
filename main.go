@@ -2,7 +2,7 @@ package main
 
 import (
 	"embed"
-	_ "embed"
+	// _ "embed" // probably not needed. keep for reference
 	"log"
 	"time"
 
